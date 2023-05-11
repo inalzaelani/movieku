@@ -22,9 +22,10 @@
             android:id="@+id/title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+
             android:fontFamily="@font/product_sans_bold"
             android:textColor="?attr/boldText"
-            tools:text="The Rising of Shield Hero"
+            tools:text="Lorem"
             android:maxLines="2"
             android:ellipsize="end"
             android:textSize="18sp" />
